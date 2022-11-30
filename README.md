@@ -1,7 +1,6 @@
 A string S made up of uppercase English letters is given. In one move, six letters forming the word "BANANA"(one 'B', three 'A's' and two 'N's') can be deleted from S. What is the maximum number of times such a move can be applied to S?
 
 Write a function:
-def solution(s)
 
 that given a string S of length N, returns the maximum number of moves that can be applied.
 
