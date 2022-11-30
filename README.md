@@ -6,6 +6,11 @@ def solution(s)
 that given a string S of length N, returns the maximum number of moves that can be applied.
 
 Examples:
-1. Given S = "NAABXXAN", the function should return 1. NAABXXAN----->XX
+1. Given S = "NAABXXAN", the function should return 1.
+NAABXXAN --> XX
 
-2. Given S = "NAANAAXNABABYNNBZ", the function should return 2. NAANAAXNABABYNNBZ -----> NAAXNABYNBZ -----> XBYNZ
+2. Given S = "NAANAAXNABABYNNBZ", the function should return 2.
+NAANAAXNABABYNNBZ --> NAAXNABYNBZ --> XBYNZ
+
+3. Given S = "QABAAAWOBL", the function should return 0.
+QABAAAWOBL
